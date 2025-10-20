@@ -1,1 +1,1 @@
-# Deepseek-design-tg-bot
+# Deepseek-tg-bot
